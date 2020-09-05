@@ -1,10 +1,10 @@
-package com.jonny.demo;
+package com.jonny.springbootjenkins;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemoApplicationTests {
+class SpringbootJenkinsApplicationTests {
 
     @Test
     void contextLoads() {
